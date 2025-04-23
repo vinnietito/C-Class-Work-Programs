@@ -1,0 +1,15 @@
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\SalaryCalculator\bin\Debug\net8.0\SalaryCalculator.exe
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\SalaryCalculator\bin\Debug\net8.0\SalaryCalculator.deps.json
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\SalaryCalculator\bin\Debug\net8.0\SalaryCalculator.runtimeconfig.json
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\SalaryCalculator\bin\Debug\net8.0\SalaryCalculator.dll
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\SalaryCalculator\bin\Debug\net8.0\SalaryCalculator.pdb
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\SalaryCalculator\obj\Debug\net8.0\SalaryCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\SalaryCalculator\obj\Debug\net8.0\SalaryCalculator.AssemblyInfoInputs.cache
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\SalaryCalculator\obj\Debug\net8.0\SalaryCalculator.AssemblyInfo.cs
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\SalaryCalculator\obj\Debug\net8.0\SalaryCalculator.csproj.CoreCompileInputs.cache
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\SalaryCalculator\obj\Debug\net8.0\SalaryCalculator.sourcelink.json
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\SalaryCalculator\obj\Debug\net8.0\SalaryCalculator.dll
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\SalaryCalculator\obj\Debug\net8.0\refint\SalaryCalculator.dll
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\SalaryCalculator\obj\Debug\net8.0\SalaryCalculator.pdb
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\SalaryCalculator\obj\Debug\net8.0\SalaryCalculator.genruntimeconfig.cache
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\SalaryCalculator\obj\Debug\net8.0\ref\SalaryCalculator.dll
