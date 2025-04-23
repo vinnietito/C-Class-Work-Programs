@@ -1,0 +1,15 @@
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\PopularSportSurvey\bin\Debug\net8.0\PopularSportSurvey.exe
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\PopularSportSurvey\bin\Debug\net8.0\PopularSportSurvey.deps.json
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\PopularSportSurvey\bin\Debug\net8.0\PopularSportSurvey.runtimeconfig.json
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\PopularSportSurvey\bin\Debug\net8.0\PopularSportSurvey.dll
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\PopularSportSurvey\bin\Debug\net8.0\PopularSportSurvey.pdb
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\PopularSportSurvey\obj\Debug\net8.0\PopularSportSurvey.GeneratedMSBuildEditorConfig.editorconfig
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\PopularSportSurvey\obj\Debug\net8.0\PopularSportSurvey.AssemblyInfoInputs.cache
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\PopularSportSurvey\obj\Debug\net8.0\PopularSportSurvey.AssemblyInfo.cs
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\PopularSportSurvey\obj\Debug\net8.0\PopularSportSurvey.csproj.CoreCompileInputs.cache
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\PopularSportSurvey\obj\Debug\net8.0\PopularSportSurvey.sourcelink.json
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\PopularSportSurvey\obj\Debug\net8.0\PopularSportSurvey.dll
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\PopularSportSurvey\obj\Debug\net8.0\refint\PopularSportSurvey.dll
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\PopularSportSurvey\obj\Debug\net8.0\PopularSportSurvey.pdb
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\PopularSportSurvey\obj\Debug\net8.0\PopularSportSurvey.genruntimeconfig.cache
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\PopularSportSurvey\obj\Debug\net8.0\ref\PopularSportSurvey.dll
