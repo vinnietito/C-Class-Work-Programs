@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SphereApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3cf0884eb97ef75d32e22f2d968e3b0c0d8272f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d61bc0e47a44863bf50c53b18d8863dde2276095")]
 [assembly: System.Reflection.AssemblyProductAttribute("SphereApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SphereApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
