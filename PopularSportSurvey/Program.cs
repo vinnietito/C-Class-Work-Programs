@@ -5,7 +5,7 @@ class Program
     static void Main(string[] args)
     {
         int F = 0, B = 0, S = 0, A = 0;
-        char vote;
+        char vote = ' '; // ✅ Initialize to avoid CS0165
 
         do
         {
@@ -13,7 +13,7 @@ class Program
             Console.WriteLine("A - Athletics, S - Swimming, F - Soccer, B - Badminton");
             Console.WriteLine("Enter Q to finish the tally");
 
-            string input = Console.ReadLine();
+            string? input = Console.ReadLine();
 
             if (!string.IsNullOrEmpty(input) && input.Length == 1)
             {
@@ -22,7 +22,7 @@ class Program
             else
             {
                 Console.WriteLine("Invalid input. Please enter a single letter.");
-                continue; // Skip this loop iteration
+                continue;
             }
 
             switch (vote)
@@ -56,7 +56,6 @@ class Program
         Console.WriteLine($"Swimming: {S}");
         Console.WriteLine($"Athletics: {A}");
 
-        // Determine the most popular sport
         if (F > A && F > B && F > S)
             Console.WriteLine("The most popular sport is Soccer.");
         else if (A > F && A > B && A > S)
@@ -68,6 +67,6 @@ class Program
         else
             Console.WriteLine("It's hard to determine the most popular sport due to a tie or equal votes.");
 
-        Console.ReadLine(); // Keep console open
+        Console.ReadLine();
     }
 }
