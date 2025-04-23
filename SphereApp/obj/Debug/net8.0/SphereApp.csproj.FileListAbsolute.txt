@@ -1,0 +1,15 @@
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\SphereApp\bin\Debug\net8.0\SphereApp.exe
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\SphereApp\bin\Debug\net8.0\SphereApp.deps.json
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\SphereApp\bin\Debug\net8.0\SphereApp.runtimeconfig.json
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\SphereApp\bin\Debug\net8.0\SphereApp.dll
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\SphereApp\bin\Debug\net8.0\SphereApp.pdb
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\SphereApp\obj\Debug\net8.0\SphereApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\SphereApp\obj\Debug\net8.0\SphereApp.AssemblyInfoInputs.cache
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\SphereApp\obj\Debug\net8.0\SphereApp.AssemblyInfo.cs
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\SphereApp\obj\Debug\net8.0\SphereApp.csproj.CoreCompileInputs.cache
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\SphereApp\obj\Debug\net8.0\SphereApp.sourcelink.json
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\SphereApp\obj\Debug\net8.0\SphereApp.dll
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\SphereApp\obj\Debug\net8.0\refint\SphereApp.dll
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\SphereApp\obj\Debug\net8.0\SphereApp.pdb
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\SphereApp\obj\Debug\net8.0\SphereApp.genruntimeconfig.cache
+E:\NOTES\BIT 3.2\Application Programming 2\Class Work Programs\C-Class-Work-Programs\SphereApp\obj\Debug\net8.0\ref\SphereApp.dll
